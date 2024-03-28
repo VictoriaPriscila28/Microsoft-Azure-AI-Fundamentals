@@ -1,0 +1,57 @@
+{
+    "documents": [
+        {
+            "id": "id__1067",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0.02,
+                "neutral": 0.05,
+                "negative": 0.93
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.05,
+                        "negative": 0.93
+                    },
+                    "offset": 0,
+                    "length": 41,
+                    "text": "Que minha solidão me sirva de companhia. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.33,
+                        "neutral": 0.57,
+                        "negative": 0.1
+                    },
+                    "offset": 41,
+                    "length": 40,
+                    "text": "Que eu tenha a coragem de me enfrentar. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.14,
+                        "neutral": 0.82,
+                        "negative": 0.04
+                    },
+                    "offset": 81,
+                    "length": 86,
+                    "text": "Que eu saiba ficar com o nada E mesmo assim me sentir Como se estivesse plena de tudo.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
